@@ -8,28 +8,28 @@ body {
 }
 
 @font-face {
-	font-family: 'Fugue';
-	src: url('Fugue-Regular.eot');
-	src: url('Fugue-Regular.eot?#iefix') format('embedded-opentype'),
-		url('Fugue-Regular.woff') format('woff'),
-		url('Fugue-Regular.ttf') format('truetype');
+	font-family: 'fugue';
+	src: url('fugue-regular.eot');
+	src: url('fugue-regular.eot?#iefix') format('embedded-opentype'),
+		url('fugue-regular.woff') format('woff'),
+		url('fugue-regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'VenusSBOP-MediumExtended';
-	src: url('VenusSBOP-MediumExtended.eot');
-	src: url('VenusSBOP-MediumExtended.eot?#iefix') format('embedded-opentype'),
-		url('VenusSBOP-MediumExtended.woff') format('woff'),
-		url('VenusSBOP-MediumExtended.ttf') format('truetype');
+	font-family: 'venussbop-mediumextended';
+	src: url('venussbop-mediumextended.eot');
+	src: url('venussbop-mediumextended.eot?#iefix') format('embedded-opentype'),
+		url('venussbop-mediumextended.woff') format('woff'),
+		url('venussbop-mediumextended.ttf') format('truetype');
 	font-weight: 500;
 	font-style: normal;
 }
 
 
 h1 {
-    font-family: 'Fugue';
+    font-family: 'fugue';
     font-size: 1.2em;
     font-kerning: auto;
     letter-spacing: 1px;
@@ -77,7 +77,7 @@ h1 {
 }
 
 .title {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 4em;
     font-kerning: auto;
     text-align: center;
@@ -95,7 +95,7 @@ h1 {
 }
 
 .electronic {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 4em;
     font-kerning: auto;
     color: #FF6A15;
@@ -289,7 +289,7 @@ h1 {
 }
 
 #arrow {
-    font-family: 'Fugue';
+    font-family: 'fugue';
     font-size: 4em;
     color: #B98F6D;
     width: 40px;
@@ -371,7 +371,7 @@ h1 {
 }
 
 .million {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 9.3em;
     font-kerning: auto;
     color: #FF6A15;
@@ -569,7 +569,7 @@ h1 {
 }
 
 #eighty {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 12em;
     font-kerning: auto;
     color: #FF6A15;
@@ -624,7 +624,7 @@ h1 {
 }
 
 #fifty {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 12em;
     font-kerning: auto;
     color: #FF6A15;
@@ -664,7 +664,7 @@ h1 {
 
 
 #minerals {
-    font-family: 'VenusSBOP-MediumExtended';
+    font-family: 'venussbop-mediumextended';
     font-size: 8em;
     font-kerning: auto;
     color: #FDCFBA;
